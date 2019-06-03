@@ -1,0 +1,43 @@
+   LOGICAL OPERATIONS
+   => Operations that controls the conditions of certain statements.
+   => Outcome of the Logical Operations are boolean(true/false)
+
+   -> grater than
+   example: 6 > 4 => true.
+            3 < 2 => false
+   <----> less than operator
+   ex: 23 < 50 => true
+       12 < 4  => false
+
+  ==     --> comprasion operator
+  ex: 23 == 45 => false
+
+  ! = -->  Not equal. Checks if two sides are not equal.
+
+  ex: 34 != 100; => true
+      12 !=12; => false
+
+  &&  ---> AND --> it compares two independent comparison and checks if both are true or not.
+
+              AND OPERATOR(&&)  ----> Truth table for AND
+  1  |  2
+  true | true  => true
+  false| true  => false
+  true | false => false
+  false| false => false
+
+
+
+  || ----> OR OPERATOR => At least one condition MUST be true.
+
+
+  true  |  false  => true
+  true  |  true   => true
+  false |  true   => false
+  false |  false  => false
+
+
+
+
+
+

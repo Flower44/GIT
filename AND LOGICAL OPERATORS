@@ -1,0 +1,169 @@
+
+OR(||) , AND(&&)
+
+
+
+
+
+
+
+
+
+
+
+AND LOGICAL OPERATOR =>  &&
+
+-> In order to get true as aresult, both conditions MUST be True.
+
+true - true => true
+true - false => false
+false -false => false
+false -true => false
+
+
+            RELATIONS OPERATORS
+
+
+ >= GREATER THAN OR EQUAL
+ --> When given condition is greater or equals to second expression, statement returns true.
+ Ex: 4 >=2: TRUE;
+     4>4: FALSE;
+     4>= 4: TRUE;
+     3>= 5: FALSE;
+
+ <=LESS THAN EQUAL
+ --> WHEN GIVEN CONDITION IS LESS OR EQUALS TO SECOND EXPRESSION, STATEMENT RETURNS TRUE.
+
+
+
+
+
+&& ---> short version of AND operator
+    =>  This returns result whenever it has enough information to make final decision.
+
+    false && true => false
+    true &&  false => false
+
+    & ----> This returns result , but checks both conditions ALL time.
+
+    Ex: int age = 19;
+        String name "Jmaes";
+
+
+       (age >=  21) &&(name == "James") --> false 
+       false && true ----->false
+
+
+
+
+
+
+
+
+   &&
+
+
+
+
+
+
+
+ IQ: Interview Question
+ | vs || -->
+ & vs && -->
+ When do you use single over double AND or OR?
+ - Single AND or OR is used when you have certain assignment or actions happen on the second condition.
+
+
+
+
+
+ --> If- Else STEMENTS ARE USED TO CHECK CERTAIN CONDITIONS AND BASED ON THAT CONDITION RESULTS WE ARE CONTROLING THE FLOW OF THE PROGRAM
+
+ DOUBLE BALANCE = 500;
+   If balance is >= Tnx 1;
+
+  JAVA :
+  1. Tnx 1 --> 300$
+     balance -= 300;
+
+  2. Tnx 2 --> 200$
+     balance -= 120$;
+
+
+
+
+
+***** When comparing Strings DON'T USE ==comparison.
+USE .equals() method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please write a program 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
